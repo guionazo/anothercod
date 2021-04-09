@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Contrareembolso con TPV
- * Plugin URI:        https://github.com/guionazo/anothercod
+ * Plugin URI:        https://github.com/pcastelovigo/anothercod
  * Description:       Plugin para añadir pago con TPV llevado por el repartidor a los métodos de pago. id: 'tpv'
  * Version:           0.2
  * Requires at least: 5.5
